@@ -43,8 +43,8 @@ Currently, I'm focusing on building machine learning models and diving deeper in
 
 ## 📫 How to Reach Me
 
-**Email:** [ayooluwaaolotu@gmail.com](#)  
-**LinkedIn:** [linkedin.com/in/ayooluwa-olotu](#)  
+**Email:** [ayooluwaaolotu@gmail.com](ayooluwaaolotu@gmail.com)  
+**LinkedIn:** [linkedin.com/in/ayooluwa-olotu](linkedin.com/in/ayooluwa-olotu)  
 
 ---
 
