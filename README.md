@@ -19,7 +19,6 @@ Currently, I'm focusing on building machine learning models and diving deeper in
 
 
 ## 🎯 Featured Project: Sentiment Analysis for American Express
-**[Link to Project README](#)**
 
 *Coming soon!*
 
