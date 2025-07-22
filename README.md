@@ -2,7 +2,7 @@
 
 **🎓 Junior at Howard University, studying Computer Engineering**
 
-**🔭 Aspiring Data Scientist and Machine Learning & Sustainability Enthusiast**
+**🔭 Aspiring Software Engineer and Machine Learning enthusiast**
 
 I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. *(Ask me about growing my technical skills and leadership as a Break Through Tech Fellow!)*
 
