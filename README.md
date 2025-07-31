@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Ayo!
+# 👋 Hi, I'm Ayo! <img src="https://github.com/user-attachments/assets/09fbc1a6-e122-4cf0-8055-3e9741863fc5" align="right" width="150">
+
 
 **🎓 Junior at Howard University, studying Computer Engineering**
 
