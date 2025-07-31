@@ -4,9 +4,9 @@
 
 **🔭 Aspiring Software Engineer and Machine Learning enthusiast**
 
-I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. *(Ask me about growing my technical skills and leadership as a Break Through Tech Fellow!)*
+I'm passionate about using technology to solve real-world problems, especially in the areas of data science, machine learning, and impactful community tech. Whether it's building clustering models to explore global well-being or helping develop FPGA-based games from scratch, I’m always looking for ways to learn, collaborate, and create something meaningful.
 
-Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals — got any leads? Let me know!
+💡 Currently, I’m growing my skills as a Break Through Tech Fellow, where I’ve been sharpening my technical edge through industry-backed training and mentorship.
 
 ---
 ## 📚 Table of Contents
@@ -18,7 +18,7 @@ Currently, I'm focusing on building machine learning models and diving deeper in
 - [Fun Fact](#-fun-fact)
 
 
-## 🎯 Featured Project: Sentiment Analysis for American Express
+## 🎯 Featured Project
 
 *Coming soon!*
 
@@ -26,17 +26,21 @@ Currently, I'm focusing on building machine learning models and diving deeper in
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, Java, C++, VHDL
+**Languages:** Python, Java, C++
 **Data Science:** Pandas, NumPy, scikit-learn, TensorFlow  
 **Web Dev:** HTML, CSS, JavaScript (basic), Node.js, React, Flask
 **Tools:** Jupyter Notebooks, Google Colab, Git, GitHub  
 **Databases:** SQL, MySQL  
+**Hardware/Systems:** VHDL, FPGA Development (VGA game design)
 
 ---
 
 ## 🚀 Projects
 
-*Coming soon!*
+###🛰 FPGA Spaceship Shooter Game
+🎮 **Description:** Designed and implemented a classic arcade-style spaceship game using VHDL for VGA display.
+⚙️ **Tools:** VHDL, FPGA
+🧠 **Cool Bits:** Collision detection, scorekeeping, and multiple lives — all in hardware!
 
 ---
 
