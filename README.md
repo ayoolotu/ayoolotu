@@ -37,7 +37,7 @@ I'm passionate about using technology to solve real-world problems, especially i
 
 ## 🚀 Projects
 
-###🛰 FPGA Spaceship Shooter Game
+### 🛰 FPGA Spaceship Shooter Game
 🎮 **Description:** Designed and implemented a classic arcade-style spaceship game using VHDL for VGA display.
 ⚙️ **Tools:** VHDL, FPGA
 🧠 **Cool Bits:** Collision detection, scorekeeping, and multiple lives — all in hardware!
